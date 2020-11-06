@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="utils/index.css">
+
+    <title>Movie List</title>
+</head>
+<body>
+<header>
+    <div id="navbar"></div>
+</header>
+
+<h1 class="text-center">Movie List</h1>
+<div class="d-flex justify-content-between align-item-start">
+    <div id="bread-crumb" class="mr-auto"></div>
+    <div id="drop-down"></div>
+    <div id="sort"></div>
+    <nav id="prev-next" class="ml-auto"></nav>
+</div>
+<!-- Id "star_table" is useful for jQuery to find the html element with id, class here is mapping to Bootstrap defined class CSS -->
+<table class="table table-striped table-hover">
+    <!-- Create a table header -->
+    <thead class="thead-dark">
+    <tr>
+        <!-- Titles of each column-->
+        <th>Name</th>
+        <th>Year</th>
+        <th>Direcor</th>
+        <th>Star</th>
+        <th>Genre</th>
+        <th>Rate</th>
+        <th>Buy</th>
+    </tr>
+    </thead>
+    <!-- Table body is left empty here, will be populated with the data retrieved with list.js -->
+    <!-- Again, id "star_table_body" is useful for jQuery to find this html element -->
+    <tbody id= "movie-list"></tbody>
+</table>
+<div class="d-flex justify-content-between align-items-end">
+    <a href="Cart.html" class="btn btn-primary btn-lg float-left" role="button">Go to Cart</a>
+    <nav id="prev-next-bottom" class="ml-auto float-right"></nav>
+</div>
+
+<script src="utils/dist/list.js"></script>
+</body>
+</html>

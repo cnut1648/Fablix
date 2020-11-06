@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".singlemovie">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar_single"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+                android:background="?attr/colorPrimary"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/constraintLayout">
+
+            <TextView
+                    android:id="@+id/title_name"
+                    android:text="title"
+                    android:layout_width="0dp"
+                    android:layout_height="104dp"
+                    android:textColor="@android:color/primary_text_light_nodisable"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintVertical_bias="0.13" app:layout_constraintEnd_toStartOf="@+id/rating_movie"
+                    app:layout_constraintHorizontal_bias="0.0" android:layout_marginLeft="8dp"
+                    android:layout_marginStart="8dp"/>
+            <TextView
+                    android:text="TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:id="@+id/rating_movie"
+                    app:layout_constraintBottom_toTopOf="@+id/allgenre" app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.71000004"
+                    app:layout_constraintStart_toEndOf="@+id/title_name" app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.78" android:textColor="#5E6DC4"
+                    android:textAllCaps="false" android:textSize="30sp" android:textStyle="italic"
+                    android:layout_marginRight="16dp" android:layout_marginEnd="16dp"/>
+            <TextView
+                    android:id="@+id/Year"
+                    android:text="year"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:textSize="18sp"
+                    app:layout_constraintTop_toBottomOf="@+id/Director"
+                    app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent" app:layout_constraintVertical_bias="0.01999998"
+                    app:layout_constraintHorizontal_bias="0.12"/>
+            <TextView
+                    android:id="@+id/Director"
+                    android:text="director"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="124dp"
+                    app:layout_constraintTop_toTopOf="@+id/title_name" app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.1"
+                    android:layout_marginBottom="512dp" app:layout_constraintBottom_toBottomOf="parent"
+                    android:textStyle="italic"/>
+            <TextView
+                    android:id="@+id/allgenre"
+                    android:layout_width="wrap_content"
+                    android:text="all Genre"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    app:layout_constraintStart_toEndOf="@+id/title_name"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" app:layout_constraintHorizontal_bias="0.86"
+                    app:layout_constraintVertical_bias="0.23000002" android:layout_marginRight="16dp"
+                    android:layout_marginEnd="16dp" android:textColor="#FB6969"/>
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true" app:srcCompat="@android:drawable/ic_menu_revert"
+                    android:id="@+id/floatingActionButton" android:visibility="visible"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.88"
+                    app:layout_constraintVertical_bias="0.95"/>
+            <TextView
+                    android:id="@+id/allstar"
+                    android:text="all Star"
+                    android:layout_width="match_parent"
+                    android:layout_height="446dp"
+                    android:textSize="18sp"
+                    android:layout_marginTop="8dp"
+                    app:layout_constraintTop_toBottomOf="@+id/divider" app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+                    android:layout_marginLeft="16dp" android:layout_marginStart="16dp" android:textColor="#73EB78"/>
+            <View
+                    android:id="@+id/divider"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="?android:attr/listDivider"
+                    app:layout_constraintTop_toBottomOf="@+id/Year" android:layout_marginBottom="8dp"
+                    app:layout_constraintBottom_toTopOf="@+id/allstar" app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent" android:layout_marginTop="16dp"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:text="To be Implemented"
+            android:textSize="30sp"
+            android:background="#FFF"
+    />
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

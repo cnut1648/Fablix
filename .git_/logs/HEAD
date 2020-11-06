@@ -1,0 +1,242 @@
+0000000000000000000000000000000000000000 323660b057e0fc656eedb484066b85debdf78f05 Jiashu XU <1999J0615une@gmail.com> 1586402818 -0700	clone: from https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-111.git
+323660b057e0fc656eedb484066b85debdf78f05 014502e9d10eb8be1650ac2fae77b811bbffff19 Jiashu XU <1999J0615une@gmail.com> 1586402827 -0700	checkout: moving from master to dev
+014502e9d10eb8be1650ac2fae77b811bbffff19 839370c364c2ffb46feed2cb0b08f614bf1b72aa Jiashu XU <1999J0615une@gmail.com> 1586411922 -0700	commit: stars page jump
+839370c364c2ffb46feed2cb0b08f614bf1b72aa 66f72b68abebf873aed0d8bece419556bb1ed73a Jiashu XU <1999J0615une@gmail.com> 1586413628 -0700	commit: single-movie rating
+66f72b68abebf873aed0d8bece419556bb1ed73a 229b2ae7ad53118684ba8ba6ef1eb2ee0a3a24e5 Jiashu XU <1999J0615une@gmail.com> 1586415616 -0700	commit: single-star N/A
+229b2ae7ad53118684ba8ba6ef1eb2ee0a3a24e5 1a37e16c84475d8074d39c6c52a371f685dcfcf2 Jiashu XU <1999J0615une@gmail.com> 1586416949 -0700	commit: limit 20
+1a37e16c84475d8074d39c6c52a371f685dcfcf2 76c7c3b75f0aa0f7c4aa7c9a777c5a81c7f54310 Jiashu XU <1999J0615une@gmail.com> 1586418911 -0700	commit: tv cursor
+76c7c3b75f0aa0f7c4aa7c9a777c5a81c7f54310 fa474a0204be94d067d6638dfe26a8ffecb205aa Jiashu XU <1999J0615une@gmail.com> 1586475404 -0700	commit: fix create table
+fa474a0204be94d067d6638dfe26a8ffecb205aa 8e6d43239d07675c84f89aacf5e7771192a45c9e Jiashu XU <1999J0615une@gmail.com> 1586475414 -0700	pull: Merge made by the 'recursive' strategy.
+8e6d43239d07675c84f89aacf5e7771192a45c9e c749ac41279e167ebac854fabe0ec2215bcbee8b Jiashu XU <1999J0615une@gmail.com> 1586475550 -0700	commit: remove .idea
+c749ac41279e167ebac854fabe0ec2215bcbee8b a3dc4cd8675db948205392af42e44b22fb0c529a Jiashu XU <1999J0615une@gmail.com> 1586476776 -0700	commit: faster loading data
+a3dc4cd8675db948205392af42e44b22fb0c529a d56703ce46240e158a049d138746dfcc66d1c4ef Jiashu XU <1999J0615une@gmail.com> 1586478318 -0700	commit: faster query
+d56703ce46240e158a049d138746dfcc66d1c4ef e923dae3c2418630d8e154fe9d66d49eedec6849 Jiashu XU <1999J0615une@gmail.com> 1586493329 -0700	commit: nav bar
+e923dae3c2418630d8e154fe9d66d49eedec6849 fc75a7e7c20b0a781102cd1d485f8e61e7494ca3 Jiashu XU <1999J0615une@gmail.com> 1586496645 -0700	commit: collapsible button
+fc75a7e7c20b0a781102cd1d485f8e61e7494ca3 c4431b3438a3dcb34683b4073de68397b8d24536 Jiashu XU <1999J0615une@gmail.com> 1586500059 -0700	commit: index.html genre list
+c4431b3438a3dcb34683b4073de68397b8d24536 ea3e7a63efc6f2531792fdb9c099d6dc97deac49 Jiashu XU <1999J0615une@gmail.com> 1586505076 -0700	commit: beautify
+ea3e7a63efc6f2531792fdb9c099d6dc97deac49 7c76d60f4b4b5f4f1d603630da86e2c8fbbff951 Jiashu XU <1999J0615une@gmail.com> 1586505425 -0700	commit: no data sql
+7c76d60f4b4b5f4f1d603630da86e2c8fbbff951 2427ff0e2cf69f452e0afa9554491615a6306282 Jiashu XU <1999J0615une@gmail.com> 1586505820 -0700	commit: remove rebundant
+2427ff0e2cf69f452e0afa9554491615a6306282 ed19dd6a37c5bd9e9d9659db4da21e88170cacab Jiashu XU <1999J0615une@gmail.com> 1586567871 -0700	commit: readme
+ed19dd6a37c5bd9e9d9659db4da21e88170cacab 759e39ddb420380eb053e298982d19ecafaa6510 Jiashu XU <1999J0615une@gmail.com> 1586567905 -0700	pull: Merge made by the 'recursive' strategy.
+759e39ddb420380eb053e298982d19ecafaa6510 323660b057e0fc656eedb484066b85debdf78f05 Jiashu XU <1999J0615une@gmail.com> 1586568035 -0700	checkout: moving from dev to master
+323660b057e0fc656eedb484066b85debdf78f05 feb56bbf4528616be9e4e814963b7a0f438009f1 Jiashu XU <1999J0615une@gmail.com> 1586568038 -0700	merge dev: Merge made by the 'recursive' strategy.
+feb56bbf4528616be9e4e814963b7a0f438009f1 759e39ddb420380eb053e298982d19ecafaa6510 Jiashu XU <1999J0615une@gmail.com> 1586571152 -0700	checkout: moving from master to dev
+759e39ddb420380eb053e298982d19ecafaa6510 3ab6a02289055494c4c592f33b503a14fadf2e82 Jiashu XU <1999J0615une@gmail.com> 1586571202 -0700	commit: faster data
+3ab6a02289055494c4c592f33b503a14fadf2e82 aa9aef9f3f3ea4048f66d33683539f4674474432 Jiashu XU <1999J0615une@gmail.com> 1586574345 -0700	pull: Fast-forward
+aa9aef9f3f3ea4048f66d33683539f4674474432 feb56bbf4528616be9e4e814963b7a0f438009f1 Jiashu XU <1999J0615une@gmail.com> 1586574358 -0700	checkout: moving from dev to master
+feb56bbf4528616be9e4e814963b7a0f438009f1 8cb693a258ba2217b3b9a3e02dae58722d30ac46 Jiashu XU <1999J0615une@gmail.com> 1586574364 -0700	pull: Fast-forward
+8cb693a258ba2217b3b9a3e02dae58722d30ac46 9605976e825d8317e41c5c0cb5b2684ea5179032 Jiashu XU <1999J0615une@gmail.com> 1586580083 -0700	pull: Fast-forward
+9605976e825d8317e41c5c0cb5b2684ea5179032 6242404fe1a05662e9ac2f83e25a30b8149057eb Jiashu XU <1999J0615une@gmail.com> 1586580132 -0700	commit: prepare demo
+6242404fe1a05662e9ac2f83e25a30b8149057eb 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1586586108 -0700	commit: demo url
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a aa9aef9f3f3ea4048f66d33683539f4674474432 Jiashu XU <1999J0615une@gmail.com> 1587496654 -0700	checkout: moving from master to dev
+aa9aef9f3f3ea4048f66d33683539f4674474432 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1587497078 -0700	rebase (start): checkout master
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a 48476b042bc1cf1605864c2ffdec2655452f6e09 Jiashu XU <1999J0615une@gmail.com> 1587497078 -0700	rebase (pick): faster data
+48476b042bc1cf1605864c2ffdec2655452f6e09 1e766297944d44399574e24f4b4f5aaaf34d31f0 Jiashu XU <1999J0615une@gmail.com> 1587497112 -0700	rebase (continue): add some comment to README
+1e766297944d44399574e24f4b4f5aaaf34d31f0 1e766297944d44399574e24f4b4f5aaaf34d31f0 Jiashu XU <1999J0615une@gmail.com> 1587497117 -0700	rebase (finish): returning to refs/heads/dev
+1e766297944d44399574e24f4b4f5aaaf34d31f0 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1587497195 -0700	checkout: moving from dev to master
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1587497226 -0700	checkout: moving from master to master
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a 1e766297944d44399574e24f4b4f5aaaf34d31f0 Jiashu XU <1999J0615une@gmail.com> 1587497235 -0700	checkout: moving from master to dev
+1e766297944d44399574e24f4b4f5aaaf34d31f0 c57393af10c2596a701f2e0bb726b4d8de6c9001 Jiashu XU <1999J0615une@gmail.com> 1587497385 -0700	commit (merge): master-> dev
+c57393af10c2596a701f2e0bb726b4d8de6c9001 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1587497510 -0700	checkout: moving from dev to master
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a c57393af10c2596a701f2e0bb726b4d8de6c9001 Jiashu XU <1999J0615une@gmail.com> 1587497518 -0700	merge dev: Fast-forward
+c57393af10c2596a701f2e0bb726b4d8de6c9001 1e766297944d44399574e24f4b4f5aaaf34d31f0 Jiashu XU <1999J0615une@gmail.com> 1587497564 -0700	rebase (start): checkout 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a
+1e766297944d44399574e24f4b4f5aaaf34d31f0 1e766297944d44399574e24f4b4f5aaaf34d31f0 Jiashu XU <1999J0615une@gmail.com> 1587497578 -0700	rebase (finish): returning to refs/heads/master
+1e766297944d44399574e24f4b4f5aaaf34d31f0 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1587497726 -0700	reset: moving to origin/master
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a c57393af10c2596a701f2e0bb726b4d8de6c9001 Jiashu XU <1999J0615une@gmail.com> 1587497788 -0700	checkout: moving from master to dev
+c57393af10c2596a701f2e0bb726b4d8de6c9001 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1587497806 -0700	reset: moving to master
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1587502999 -0700	checkout: moving from dev to master
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1587503032 -0700	checkout: moving from master to master
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1587504620 -0700	checkout: moving from master to dev
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a 76b9390ddcef37e189f9befe5bb13e05d7a8aec5 Jiashu XU <1999J0615une@gmail.com> 1587532874 -0700	commit: login page
+76b9390ddcef37e189f9befe5bb13e05d7a8aec5 acc1c35862dd7e5180c12ced17009eab9587b6bd Jiashu XU <1999J0615une@gmail.com> 1587533105 -0700	commit (merge): dev cleanup
+acc1c35862dd7e5180c12ced17009eab9587b6bd 5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d Jiashu XU <1999J0615une@gmail.com> 1587536407 -0700	commit: login fail error message
+5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1587536448 -0700	checkout: moving from dev to vue
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a 5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d Jiashu XU <1999J0615une@gmail.com> 1587536461 -0700	merge dev: Fast-forward
+5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d 5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d Jiashu XU <1999J0615une@gmail.com> 1587540423 -0700	checkout: moving from vue to dev
+5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d 5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d Jiashu XU <1999J0615une@gmail.com> 1587540437 -0700	checkout: moving from dev to vue
+5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d 5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d Jiashu XU <1999J0615une@gmail.com> 1587540646 -0700	checkout: moving from vue to dev
+5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d 5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d Jiashu XU <1999J0615une@gmail.com> 1587540691 -0700	reset: moving to origin/dev
+5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d 5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d Jiashu XU <1999J0615une@gmail.com> 1587579378 -0700	checkout: moving from dev to vue
+5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d b4c8dd1f953781d5f4f5bc657566105feb0aa5db Jiashu XU <1999J0615une@gmail.com> 1587579650 -0700	commit: npm
+b4c8dd1f953781d5f4f5bc657566105feb0aa5db 05809ecfdbf4a44f28464c67faad0074a87dfb14 Jiashu XU <1999J0615une@gmail.com> 1587592100 -0700	commit: imported
+05809ecfdbf4a44f28464c67faad0074a87dfb14 5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d Jiashu XU <1999J0615une@gmail.com> 1587839192 -0700	checkout: moving from vue to dev
+5f59d2a7b3a740e9022d2b9b47270d75f04a3a0d db575a7684617af8d3e5f50748bfc446ce5ae727 Jiashu XU <1999J0615une@gmail.com> 1587839239 -0700	pull: Fast-forward
+db575a7684617af8d3e5f50748bfc446ce5ae727 74ccc208c0f3d9c8f72c03f9a5423e61d96329c4 Jiashu XU <1999J0615une@gmail.com> 1587839318 -0700	commit: webpack
+74ccc208c0f3d9c8f72c03f9a5423e61d96329c4 05809ecfdbf4a44f28464c67faad0074a87dfb14 Jiashu XU <1999J0615une@gmail.com> 1587839330 -0700	checkout: moving from dev to vue
+05809ecfdbf4a44f28464c67faad0074a87dfb14 74ccc208c0f3d9c8f72c03f9a5423e61d96329c4 Jiashu XU <1999J0615une@gmail.com> 1587839353 -0700	checkout: moving from vue to dev
+74ccc208c0f3d9c8f72c03f9a5423e61d96329c4 d83c3694bc12c1f01dbe7e6a24fb70f07fa5847a Jiashu XU <1999J0615une@gmail.com> 1587839365 -0700	merge vue: Merge made by the 'recursive' strategy.
+d83c3694bc12c1f01dbe7e6a24fb70f07fa5847a 4ab6408c2f80605b164ee8cc2e6c1c77afc31202 Jiashu XU <1999J0615une@gmail.com> 1587868564 -0700	commit: main page
+4ab6408c2f80605b164ee8cc2e6c1c77afc31202 4bd3c73b3b141230dcf02f8cb90f7149027b5235 Jiashu XU <1999J0615une@gmail.com> 1587868588 -0700	pull: Merge made by the 'recursive' strategy.
+4bd3c73b3b141230dcf02f8cb90f7149027b5235 9c8b380525cb2d95e5b0e543fdd9389efbcccabb Jiashu XU <1999J0615une@gmail.com> 1587877116 -0700	commit: search function
+9c8b380525cb2d95e5b0e543fdd9389efbcccabb a27ad03882bb7cbe5443b58828a26ffd4ebf6a83 Jiashu XU <1999J0615une@gmail.com> 1587877728 -0700	commit (merge): refactor
+a27ad03882bb7cbe5443b58828a26ffd4ebf6a83 12d25ec43cbcbbe8edb3d88dd141c2e582f33448 Jiashu XU <1999J0615une@gmail.com> 1587890134 -0700	commit: browse model
+12d25ec43cbcbbe8edb3d88dd141c2e582f33448 e60c0614b76e386735a0c78b0ec6df0e7f208b2a Jiashu XU <1999J0615une@gmail.com> 1587933636 -0700	commit: search
+e60c0614b76e386735a0c78b0ec6df0e7f208b2a 0bcc32f857459291e0c0e4437e9670d8e6553607 Jiashu XU <1999J0615une@gmail.com> 1587937661 -0700	commit (merge): movie sql
+0bcc32f857459291e0c0e4437e9670d8e6553607 3be4e8886c708a6abaf05f9eb5899d56eb023810 Jiashu XU <1999J0615une@gmail.com> 1587945000 -0700	commit: crumb
+3be4e8886c708a6abaf05f9eb5899d56eb023810 583d472ab917bcf3b6f727f3224978d7d86ec3f4 Jiashu XU <1999J0615une@gmail.com> 1587945004 -0700	pull: Merge made by the 'recursive' strategy.
+583d472ab917bcf3b6f727f3224978d7d86ec3f4 82944fe05644fbd3cb9cc1b84560718276e4e68c Jiashu XU <1999J0615une@gmail.com> 1587949585 -0700	commit: modal
+82944fe05644fbd3cb9cc1b84560718276e4e68c ee832fb6ca87cabd176c0534845b87bda6c5644f Jiashu XU <1999J0615une@gmail.com> 1587954011 -0700	commit: jump back
+ee832fb6ca87cabd176c0534845b87bda6c5644f 193ae4b0ec5b20226d3cf6c603c99caebfe91055 Jiashu XU <1999J0615une@gmail.com> 1587972753 -0700	commit: login
+193ae4b0ec5b20226d3cf6c603c99caebfe91055 6d9f9e7c909e66a9fd20e71424b13d823f4accad Jiashu XU <1999J0615une@gmail.com> 1587975322 -0700	commit: change N
+6d9f9e7c909e66a9fd20e71424b13d823f4accad 2c79a14b9b5f02c581ae30a93e98c01f3e47854d Jiashu XU <1999J0615une@gmail.com> 1587976625 -0700	commit: pagination
+2c79a14b9b5f02c581ae30a93e98c01f3e47854d 7e3b8af5ff6e76f643aea9ba96b91aaf9dc4f979 Jiashu XU <1999J0615une@gmail.com> 1587980085 -0700	commit: no with
+7e3b8af5ff6e76f643aea9ba96b91aaf9dc4f979 9726528ce995c5f20e046395ad4aba6e6ae397b9 Jiashu XU <1999J0615une@gmail.com> 1587987346 -0700	commit: sort
+9726528ce995c5f20e046395ad4aba6e6ae397b9 115586684de726dbb4cdafd64aa2a7097619a316 Jiashu XU <1999J0615une@gmail.com> 1587987409 -0700	pull: Merge made by the 'recursive' strategy.
+115586684de726dbb4cdafd64aa2a7097619a316 41c564ae247e9bd6baed45e02ce1b19590c0a62a Jiashu XU <1999J0615une@gmail.com> 1588021256 -0700	commit: webpack refactor
+41c564ae247e9bd6baed45e02ce1b19590c0a62a a461e7c752f9629f5ecc1660f2feadbd2a514095 Jiashu XU <1999J0615une@gmail.com> 1588021318 -0700	commit (merge): webpack refactor
+a461e7c752f9629f5ecc1660f2feadbd2a514095 c40bb91dc9ad4df05bccbccd6fce2427b03a9fd7 Jiashu XU <1999J0615une@gmail.com> 1588023653 -0700	commit: login delay
+c40bb91dc9ad4df05bccbccd6fce2427b03a9fd7 39d898d35f0f8e0c947f92f2c75f75c79357b75b Jiashu XU <1999J0615une@gmail.com> 1588028392 -0700	commit: navbar
+39d898d35f0f8e0c947f92f2c75f75c79357b75b e161fc3f0d8de5ddf1e604a812e1099d61076dd4 Jiashu XU <1999J0615une@gmail.com> 1588028398 -0700	pull: Merge made by the 'recursive' strategy.
+e161fc3f0d8de5ddf1e604a812e1099d61076dd4 079f7f7359db7440efa203423de05d3e564f7e65 Jiashu XU <1999J0615une@gmail.com> 1588038184 -0700	commit: logout
+079f7f7359db7440efa203423de05d3e564f7e65 c4a5174c363b2cf0c6c2934db6ae5d3512660b56 Jiashu XU <1999J0615une@gmail.com> 1588038356 -0700	commit (merge): fix bugs
+c4a5174c363b2cf0c6c2934db6ae5d3512660b56 1d017ccf00bac588f2952020ab5e8a55bc41098b Jiashu XU <1999J0615une@gmail.com> 1588044426 -0700	commit: cart
+1d017ccf00bac588f2952020ab5e8a55bc41098b 55e82011322c74b89e34b667728657fae669ef94 Jiashu XU <1999J0615une@gmail.com> 1588047779 -0700	commit: fix buges
+55e82011322c74b89e34b667728657fae669ef94 d9c28c910370482b422faf97dceff67696448d84 Jiashu XU <1999J0615une@gmail.com> 1588048847 -0700	commit: add search bar
+d9c28c910370482b422faf97dceff67696448d84 554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a Jiashu XU <1999J0615une@gmail.com> 1588048863 -0700	checkout: moving from dev to master
+554e39c2d442c5fc5d24bb0b00c630e0cd6b6e6a d9c28c910370482b422faf97dceff67696448d84 Jiashu XU <1999J0615une@gmail.com> 1588048869 -0700	merge dev: Fast-forward
+d9c28c910370482b422faf97dceff67696448d84 09634616cbead62a4562f463980006cd40d02878 Jiashu XU <1999J0615une@gmail.com> 1588051102 -0700	commit: prepare for demo
+09634616cbead62a4562f463980006cd40d02878 f857996752a4e633f39d72ab5ee7d402a17f0aec Jiashu XU <1999J0615une@gmail.com> 1588051235 -0700	commit: clean up repo
+f857996752a4e633f39d72ab5ee7d402a17f0aec ade97d536aaf5298a5e1b66105d70948c3f5c033 Jiashu XU <1999J0615une@gmail.com> 1588053884 -0700	commit: index
+ade97d536aaf5298a5e1b66105d70948c3f5c033 e6dfa421970309e62b0f50beed7559807ebd5360 Jiashu XU <1999J0615une@gmail.com> 1588055552 -0700	commit: demo
+e6dfa421970309e62b0f50beed7559807ebd5360 d9c28c910370482b422faf97dceff67696448d84 Jiashu XU <1999J0615une@gmail.com> 1588057994 -0700	checkout: moving from master to dev
+d9c28c910370482b422faf97dceff67696448d84 e49cdcf43506eb46834e7bcf8c0c7aceee89a144 Jiashu XU <1999J0615une@gmail.com> 1588058042 -0700	commit: helper script
+e49cdcf43506eb46834e7bcf8c0c7aceee89a144 e6dfa421970309e62b0f50beed7559807ebd5360 Jiashu XU <1999J0615une@gmail.com> 1588059472 -0700	checkout: moving from dev to master
+e6dfa421970309e62b0f50beed7559807ebd5360 c4d6a2acd03e13ad7f911b15cc7b5d6da8e1a87f Jiashu XU <1999J0615une@gmail.com> 1588059505 -0700	commit: rm dist
+c4d6a2acd03e13ad7f911b15cc7b5d6da8e1a87f b8052b686abb543eac457214852ab3b7a2e1fb61 Jiashu XU <1999J0615une@gmail.com> 1588059514 -0700	pull: Merge made by the 'recursive' strategy.
+b8052b686abb543eac457214852ab3b7a2e1fb61 9040a9a278af37309bfa36b4990a3bacaebd0ff5 Jiashu XU <1999J0615une@gmail.com> 1588062196 -0700	commit: inplace search
+9040a9a278af37309bfa36b4990a3bacaebd0ff5 39bfaa8dac8b630cadfd2e0dd79147b4b30af933 Jiashu XU <1999J0615une@gmail.com> 1588064764 -0700	commit: little fix
+39bfaa8dac8b630cadfd2e0dd79147b4b30af933 9bbeb316723b03135f266535ecf7d18835a21d42 Jiashu XU <1999J0615une@gmail.com> 1588066002 -0700	commit: fix bugs
+9bbeb316723b03135f266535ecf7d18835a21d42 fb29b6026f0ae378b66e45edde998a55bb5dbcb2 Jiashu XU <1999J0615une@gmail.com> 1588937707 -0700	pull: Fast-forward
+fb29b6026f0ae378b66e45edde998a55bb5dbcb2 e49cdcf43506eb46834e7bcf8c0c7aceee89a144 Jiashu XU <1999J0615une@gmail.com> 1588937716 -0700	checkout: moving from master to dev
+e49cdcf43506eb46834e7bcf8c0c7aceee89a144 04cb5b79714fe5e8a6f8478d0f14da8829d7cd16 Jiashu XU <1999J0615une@gmail.com> 1588937724 -0700	pull: Fast-forward
+04cb5b79714fe5e8a6f8478d0f14da8829d7cd16 6717375cdc561104ba65ffc899d90cb43d9b0a2d Jiashu XU <1999J0615une@gmail.com> 1589067434 -0700	commit: cleanup
+6717375cdc561104ba65ffc899d90cb43d9b0a2d fb29b6026f0ae378b66e45edde998a55bb5dbcb2 Jiashu XU <1999J0615une@gmail.com> 1589067440 -0700	checkout: moving from dev to master
+fb29b6026f0ae378b66e45edde998a55bb5dbcb2 6717375cdc561104ba65ffc899d90cb43d9b0a2d Jiashu XU <1999J0615une@gmail.com> 1589068863 -0700	checkout: moving from master to dev
+6717375cdc561104ba65ffc899d90cb43d9b0a2d fb29b6026f0ae378b66e45edde998a55bb5dbcb2 Jiashu XU <1999J0615une@gmail.com> 1589069012 -0700	checkout: moving from dev to master
+fb29b6026f0ae378b66e45edde998a55bb5dbcb2 fb29b6026f0ae378b66e45edde998a55bb5dbcb2 Jiashu XU <1999J0615une@gmail.com> 1589069034 -0700	checkout: moving from master to j
+fb29b6026f0ae378b66e45edde998a55bb5dbcb2 6717375cdc561104ba65ffc899d90cb43d9b0a2d Jiashu XU <1999J0615une@gmail.com> 1589069652 -0700	checkout: moving from j to dev
+6717375cdc561104ba65ffc899d90cb43d9b0a2d fb29b6026f0ae378b66e45edde998a55bb5dbcb2 Jiashu XU <1999J0615une@gmail.com> 1589069970 -0700	checkout: moving from dev to j
+fb29b6026f0ae378b66e45edde998a55bb5dbcb2 fb29b6026f0ae378b66e45edde998a55bb5dbcb2 Jiashu XU <1999J0615une@gmail.com> 1589070155 -0700	reset: moving to HEAD
+fb29b6026f0ae378b66e45edde998a55bb5dbcb2 6717375cdc561104ba65ffc899d90cb43d9b0a2d Jiashu XU <1999J0615une@gmail.com> 1589070155 -0700	checkout: moving from j to dev
+6717375cdc561104ba65ffc899d90cb43d9b0a2d fb29b6026f0ae378b66e45edde998a55bb5dbcb2 Jiashu XU <1999J0615une@gmail.com> 1589070271 -0700	checkout: moving from dev to j
+fb29b6026f0ae378b66e45edde998a55bb5dbcb2 fb29b6026f0ae378b66e45edde998a55bb5dbcb2 Jiashu XU <1999J0615une@gmail.com> 1589070465 -0700	checkout: moving from j to master
+fb29b6026f0ae378b66e45edde998a55bb5dbcb2 fb29b6026f0ae378b66e45edde998a55bb5dbcb2 Jiashu XU <1999J0615une@gmail.com> 1589077644 -0700	checkout: moving from master to master
+fb29b6026f0ae378b66e45edde998a55bb5dbcb2 6717375cdc561104ba65ffc899d90cb43d9b0a2d Jiashu XU <1999J0615une@gmail.com> 1589079806 -0700	checkout: moving from master to dev
+6717375cdc561104ba65ffc899d90cb43d9b0a2d da2cf7fe1acec645eff95ed658ec6a4a62150985 Jiashu XU <1999J0615une@gmail.com> 1589083945 -0700	commit: prepareStatement
+da2cf7fe1acec645eff95ed658ec6a4a62150985 24cc0c79378432fa1931c120d827488c4854a223 Jiashu XU <1999J0615une@gmail.com> 1589097443 -0700	commit: recaptcha error msg
+24cc0c79378432fa1931c120d827488c4854a223 a86bc3b1ee07945c346a2b51dc992920442a9a71 Jiashu XU <1999J0615une@gmail.com> 1589141061 -0700	commit: basic parser
+a86bc3b1ee07945c346a2b51dc992920442a9a71 c2537c0b7bf867ca23b8b5fab98846477444ab55 Jiashu XU <1999J0615une@gmail.com> 1589171705 -0700	commit: refactor
+c2537c0b7bf867ca23b8b5fab98846477444ab55 05809ecfdbf4a44f28464c67faad0074a87dfb14 Jiashu XU <1999J0615une@gmail.com> 1589171726 -0700	checkout: moving from dev to vue
+05809ecfdbf4a44f28464c67faad0074a87dfb14 ba7aaf654942c1f342bd647ced107a3ac130d331 Jiashu XU <1999J0615une@gmail.com> 1589171768 -0700	commit: refactor
+ba7aaf654942c1f342bd647ced107a3ac130d331 badb70741f299cd3bcfd59fb661a86ac03c0c81c Jiashu XU <1999J0615une@gmail.com> 1589171807 -0700	merge dev: Merge made by the 'recursive' strategy.
+badb70741f299cd3bcfd59fb661a86ac03c0c81c 642308c06b5b3c447941bb2b97abb547dbecd0c1 Jiashu XU <1999J0615une@gmail.com> 1589172066 -0700	commit: new
+642308c06b5b3c447941bb2b97abb547dbecd0c1 2f466170b788e997ffaeed540fbe4100aad409aa Jiashu XU <1999J0615une@gmail.com> 1589172091 -0700	commit: new
+2f466170b788e997ffaeed540fbe4100aad409aa 336df06719c94e4b9c8eb090a6c248c84e4b9899 Jiashu XU <1999J0615une@gmail.com> 1589174651 -0700	commit: aws trial
+336df06719c94e4b9c8eb090a6c248c84e4b9899 3cea35e595c6180e5776b466dc4a294fbcf8de79 Jiashu XU <1999J0615une@gmail.com> 1589180717 -0700	commit: dataquery
+3cea35e595c6180e5776b466dc4a294fbcf8de79 a63a74a8cdbdadb867a12dfaeef920a67e619a62 Jiashu XU <1999J0615une@gmail.com> 1589189997 -0700	commit: dataquery 2
+a63a74a8cdbdadb867a12dfaeef920a67e619a62 2da987883e2faf8d170dd3ad2b7ba78e71a915c4 Jiashu XU <1999J0615une@gmail.com> 1589199488 -0700	commit: optimized
+2da987883e2faf8d170dd3ad2b7ba78e71a915c4 fb29b6026f0ae378b66e45edde998a55bb5dbcb2 Jiashu XU <1999J0615une@gmail.com> 1589200048 -0700	checkout: moving from vue to master
+fb29b6026f0ae378b66e45edde998a55bb5dbcb2 9b3051564edbba1d7fe5c11d8ff15d406c321562 Jiashu XU <1999J0615une@gmail.com> 1589200118 -0700	pull: Fast-forward
+9b3051564edbba1d7fe5c11d8ff15d406c321562 b028fca5b37ef7fb69c86d53804fb7a2d8a29cea Jiashu XU <1999J0615une@gmail.com> 1589200241 -0700	commit: refactor
+b028fca5b37ef7fb69c86d53804fb7a2d8a29cea 2da987883e2faf8d170dd3ad2b7ba78e71a915c4 Jiashu XU <1999J0615une@gmail.com> 1589200247 -0700	checkout: moving from master to vue
+2da987883e2faf8d170dd3ad2b7ba78e71a915c4 b028fca5b37ef7fb69c86d53804fb7a2d8a29cea Jiashu XU <1999J0615une@gmail.com> 1589200256 -0700	checkout: moving from vue to master
+b028fca5b37ef7fb69c86d53804fb7a2d8a29cea 9b3051564edbba1d7fe5c11d8ff15d406c321562 Jiashu XU <1999J0615une@gmail.com> 1589200406 -0700	reset: moving to HEAD^
+9b3051564edbba1d7fe5c11d8ff15d406c321562 cf8080d7da1301b915d5510b445ac70ad69e3efd Jiashu XU <1999J0615une@gmail.com> 1589201907 -0700	commit (merge): part 7 optimized
+cf8080d7da1301b915d5510b445ac70ad69e3efd 4b92214ad2f0d78a09692d9045d5e1b40857971e Jiashu XU <1999J0615une@gmail.com> 1589202448 -0700	commit: readme update
+4b92214ad2f0d78a09692d9045d5e1b40857971e c8a155833748fdf7893e357ce4373db13b52c4ae Jiashu XU <1999J0615une@gmail.com> 1589223084 -0700	commit: inconsistent update 1
+c8a155833748fdf7893e357ce4373db13b52c4ae efe7547adad2ea0c54f31901418ce8805aece2a2 Jiashu XU <1999J0615une@gmail.com> 1589235798 -0700	commit: inconsistent update 2
+efe7547adad2ea0c54f31901418ce8805aece2a2 15bf03d8e43a0b9425950e3ef01b242b56dc3af9 Jiashu XU <1999J0615une@gmail.com> 1589237006 -0700	commit: proj cleanup
+15bf03d8e43a0b9425950e3ef01b242b56dc3af9 3a0e3820dcc42509e276566df31f651615007da4 Jiashu XU <1999J0615une@gmail.com> 1589243878 -0700	commit: proj cleanup2
+3a0e3820dcc42509e276566df31f651615007da4 c2537c0b7bf867ca23b8b5fab98846477444ab55 Jiashu XU <1999J0615une@gmail.com> 1589244579 -0700	checkout: moving from master to dev
+c2537c0b7bf867ca23b8b5fab98846477444ab55 3a0e3820dcc42509e276566df31f651615007da4 Jiashu XU <1999J0615une@gmail.com> 1589244635 -0700	merge master: Fast-forward
+3a0e3820dcc42509e276566df31f651615007da4 3a0e3820dcc42509e276566df31f651615007da4 Jiashu XU <1999J0615une@gmail.com> 1589244792 -0700	checkout: moving from dev to master
+3a0e3820dcc42509e276566df31f651615007da4 3a0e3820dcc42509e276566df31f651615007da4 Jiashu XU <1999J0615une@gmail.com> 1589244824 -0700	checkout: moving from master to master
+3a0e3820dcc42509e276566df31f651615007da4 3a0e3820dcc42509e276566df31f651615007da4 Jiashu XU <1999J0615une@gmail.com> 1589244910 -0700	checkout: moving from master to dev
+3a0e3820dcc42509e276566df31f651615007da4 b14bc8dc648bc77938e3ad9656cb130bae18b9f9 Jiashu XU <1999J0615une@gmail.com> 1589245024 -0700	commit: proj cleanup3
+b14bc8dc648bc77938e3ad9656cb130bae18b9f9 3a0e3820dcc42509e276566df31f651615007da4 Jiashu XU <1999J0615une@gmail.com> 1589245033 -0700	checkout: moving from dev to master
+3a0e3820dcc42509e276566df31f651615007da4 b14bc8dc648bc77938e3ad9656cb130bae18b9f9 Jiashu XU <1999J0615une@gmail.com> 1589245043 -0700	checkout: moving from master to dev
+b14bc8dc648bc77938e3ad9656cb130bae18b9f9 3a0e3820dcc42509e276566df31f651615007da4 Jiashu XU <1999J0615une@gmail.com> 1589245053 -0700	checkout: moving from dev to master
+3a0e3820dcc42509e276566df31f651615007da4 b14bc8dc648bc77938e3ad9656cb130bae18b9f9 Jiashu XU <1999J0615une@gmail.com> 1589245176 -0700	checkout: moving from master to dev
+b14bc8dc648bc77938e3ad9656cb130bae18b9f9 2da987883e2faf8d170dd3ad2b7ba78e71a915c4 Jiashu XU <1999J0615une@gmail.com> 1589245190 -0700	checkout: moving from dev to vue
+2da987883e2faf8d170dd3ad2b7ba78e71a915c4 9f8bf1d3232c7ad7f514471861c80cd9a9427322 Jiashu XU <1999J0615une@gmail.com> 1589245278 -0700	commit: a.sh
+9f8bf1d3232c7ad7f514471861c80cd9a9427322 3a0e3820dcc42509e276566df31f651615007da4 Jiashu XU <1999J0615une@gmail.com> 1589245294 -0700	checkout: moving from vue to master
+3a0e3820dcc42509e276566df31f651615007da4 9f8bf1d3232c7ad7f514471861c80cd9a9427322 Jiashu XU <1999J0615une@gmail.com> 1589245967 -0700	checkout: moving from master to vue
+9f8bf1d3232c7ad7f514471861c80cd9a9427322 3a0e3820dcc42509e276566df31f651615007da4 Jiashu XU <1999J0615une@gmail.com> 1589246019 -0700	checkout: moving from vue to master
+3a0e3820dcc42509e276566df31f651615007da4 1deb60dcd054e58ee1e61fa45126d99318166830 Jiashu XU <1999J0615une@gmail.com> 1589249278 -0700	commit: fix dashboard
+1deb60dcd054e58ee1e61fa45126d99318166830 bfe464b3703358132dffc0d9e47cd4689a5f18a8 Jiashu XU <1999J0615une@gmail.com> 1589253076 -0700	commit: prepare for demo
+bfe464b3703358132dffc0d9e47cd4689a5f18a8 b1aee59b9951d46aebc2943ac228116238bffb87 Jiashu XU <1999J0615une@gmail.com> 1589253942 -0700	commit: web.xml
+b1aee59b9951d46aebc2943ac228116238bffb87 6d3ecbb08b4659fdf2bd78954e66bff4cb1050cb Jiashu XU <1999J0615une@gmail.com> 1589257083 -0700	commit: prepare
+6d3ecbb08b4659fdf2bd78954e66bff4cb1050cb 8139c678bf3f945d2689d887371f8b7f4ecb422a Jiashu XU <1999J0615une@gmail.com> 1589485642 -0700	commit: autocomplete
+8139c678bf3f945d2689d887371f8b7f4ecb422a 82fb2dcd7b1221dcd03782bcc37b667df6a3d93f Jiashu XU <1999J0615une@gmail.com> 1589485654 -0700	pull: Merge made by the 'recursive' strategy.
+82fb2dcd7b1221dcd03782bcc37b667df6a3d93f 7d9ee4c6d26c339ec9ad5db0903deaaac448495b Jiashu XU <1999J0615une@gmail.com> 1590226462 -0700	commit: sample android
+7d9ee4c6d26c339ec9ad5db0903deaaac448495b b14bc8dc648bc77938e3ad9656cb130bae18b9f9 Jiashu XU <1999J0615une@gmail.com> 1590226471 -0700	checkout: moving from master to dev
+b14bc8dc648bc77938e3ad9656cb130bae18b9f9 2126cee1c56d262f5f59b2333fb4ee9100e96c61 Jiashu XU <1999J0615une@gmail.com> 1590226476 -0700	merge master: Merge made by the 'recursive' strategy.
+2126cee1c56d262f5f59b2333fb4ee9100e96c61 659abef6c959bb60ee0239da4b6e6c7620bf33c0 Jiashu XU <1999J0615une@gmail.com> 1590227094 -0700	commit: sample android
+659abef6c959bb60ee0239da4b6e6c7620bf33c0 124d1536f3b2f441e5c4fa95d4627a6cf596db04 Jiashu XU <1999J0615une@gmail.com> 1590227585 -0700	pull: Fast-forward
+124d1536f3b2f441e5c4fa95d4627a6cf596db04 cc64b73908d18a3fc7bba0cded6b7abf0f4276a2 Jiashu XU <1999J0615une@gmail.com> 1590265013 -0700	commit: toolkit make
+cc64b73908d18a3fc7bba0cded6b7abf0f4276a2 a62c710c6202c6a078e9704d6aa0c0980c111169 Jiashu XU <1999J0615une@gmail.com> 1590265097 -0700	commit: some modification
+a62c710c6202c6a078e9704d6aa0c0980c111169 7d9ee4c6d26c339ec9ad5db0903deaaac448495b Jiashu XU <1999J0615une@gmail.com> 1590265105 -0700	checkout: moving from dev to master
+7d9ee4c6d26c339ec9ad5db0903deaaac448495b a62c710c6202c6a078e9704d6aa0c0980c111169 Jiashu XU <1999J0615une@gmail.com> 1590265115 -0700	merge dev: Fast-forward
+a62c710c6202c6a078e9704d6aa0c0980c111169 8afa14ed19935fc525505221b0cc9684faa678df Jiashu XU <1999J0615une@gmail.com> 1590265150 -0700	pull: Merge made by the 'recursive' strategy.
+8afa14ed19935fc525505221b0cc9684faa678df 798fa721df10b5e25b6a10ea7941095932d76cbf Jiashu XU <1999J0615une@gmail.com> 1590273896 -0700	commit: android
+798fa721df10b5e25b6a10ea7941095932d76cbf 1c466fcef7ad02e2a22d0e0c7d028e73989eb248 Jiashu XU <1999J0615une@gmail.com> 1590273899 -0700	pull: Merge made by the 'recursive' strategy.
+1c466fcef7ad02e2a22d0e0c7d028e73989eb248 a62c710c6202c6a078e9704d6aa0c0980c111169 Jiashu XU <1999J0615une@gmail.com> 1590273932 -0700	checkout: moving from master to dev
+a62c710c6202c6a078e9704d6aa0c0980c111169 1c466fcef7ad02e2a22d0e0c7d028e73989eb248 Jiashu XU <1999J0615une@gmail.com> 1590273936 -0700	checkout: moving from dev to master
+1c466fcef7ad02e2a22d0e0c7d028e73989eb248 1c466fcef7ad02e2a22d0e0c7d028e73989eb248 Jiashu XU <1999J0615une@gmail.com> 1590273946 -0700	reset: moving to HEAD
+1c466fcef7ad02e2a22d0e0c7d028e73989eb248 729e45cc5dc18eaf1d9aaa26ea24b2a01a05b30c Jiashu XU <1999J0615une@gmail.com> 1590274087 -0700	commit: android
+729e45cc5dc18eaf1d9aaa26ea24b2a01a05b30c 3a1959d017749897fef1acb32ee957728e8b6a1d Jiashu XU <1999J0615une@gmail.com> 1590278280 -0700	commit: ignore sensitive data
+3a1959d017749897fef1acb32ee957728e8b6a1d 4d9635a932daf5ca3370d92331e05f6baebbfd04 Jiashu XU <1999J0615une@gmail.com> 1590297393 -0700	pull: Fast-forward
+4d9635a932daf5ca3370d92331e05f6baebbfd04 3c91500e0796bf838c0ae3792578093ff8867b6a Jiashu XU <1999J0615une@gmail.com> 1590356779 -0700	commit: android login material
+3c91500e0796bf838c0ae3792578093ff8867b6a e4f82c265b1580fe1ace70b0e9d329f2c42b75a9 Jiashu XU <1999J0615une@gmail.com> 1590357273 -0700	commit: wrapper
+e4f82c265b1580fe1ace70b0e9d329f2c42b75a9 349754cf3d58be8b4420ba064f85cbe8c3195fe8 Jiashu XU <1999J0615une@gmail.com> 1590357878 -0700	commit: jar
+349754cf3d58be8b4420ba064f85cbe8c3195fe8 5347a3fa7a601ce2045339be86dfa0f25136cd85 Jiashu XU <1999J0615une@gmail.com> 1590368695 -0700	commit: fix pagesize bug
+5347a3fa7a601ce2045339be86dfa0f25136cd85 a2073f0fdbc176b1b77e5952d9252862fbfdeca0 Jiashu XU <1999J0615une@gmail.com> 1590373643 -0700	commit: beautify
+a2073f0fdbc176b1b77e5952d9252862fbfdeca0 9b8219a8c85a80a238156ba8f2d8818c12914849 Jiashu XU <1999J0615une@gmail.com> 1590377104 -0700	commit: android finish
+9b8219a8c85a80a238156ba8f2d8818c12914849 61647b7ee6f65372a125490e238825d758a94fa6 Jiashu XU <1999J0615une@gmail.com> 1590380451 -0700	commit: prepare demo
+61647b7ee6f65372a125490e238825d758a94fa6 5cf732e49f7a2e9bdc7068af520ef158e441d5ec Jiashu XU <1999J0615une@gmail.com> 1590445753 -0700	pull: Fast-forward
+5cf732e49f7a2e9bdc7068af520ef158e441d5ec 4a1ce14c1b03fd5326d2b105147d42df1e5303ad Jiashu XU <1999J0615une@gmail.com> 1590463144 -0700	commit: prepare demo
+4a1ce14c1b03fd5326d2b105147d42df1e5303ad e223d3aa09c6099f4e1b41aa5b667e0c99345639 Jiashu XU <1999J0615une@gmail.com> 1590463231 -0700	commit: loginfilter off
+e223d3aa09c6099f4e1b41aa5b667e0c99345639 84119920c366ee9512d9bd50e2e35268df235be6 Jiashu XU <1999J0615une@gmail.com> 1590464223 -0700	commit: bug fix
+84119920c366ee9512d9bd50e2e35268df235be6 b0bfa2b1c68dd13f8a29522a2b30cf8b736693db Jiashu XU <1999J0615une@gmail.com> 1590469128 -0700	commit: demo
+b0bfa2b1c68dd13f8a29522a2b30cf8b736693db a62c710c6202c6a078e9704d6aa0c0980c111169 Jiashu XU <1999J0615une@gmail.com> 1591180117 -0700	checkout: moving from master to dev
+a62c710c6202c6a078e9704d6aa0c0980c111169 b0bfa2b1c68dd13f8a29522a2b30cf8b736693db Jiashu XU <1999J0615une@gmail.com> 1591180123 -0700	merge master: Fast-forward
+b0bfa2b1c68dd13f8a29522a2b30cf8b736693db d135fa200d78c83d30ffa68d051c76314bd56933 Jiashu XU <1999J0615une@gmail.com> 1591182033 -0700	commit: scaled version
+d135fa200d78c83d30ffa68d051c76314bd56933 36cf4b3c61cfceaf667f1ac520311e2f6530b48b Jiashu XU <1999J0615une@gmail.com> 1591223491 -0700	commit: r/w separate
+36cf4b3c61cfceaf667f1ac520311e2f6530b48b 893e0a594b9eb12dc072c6a27ec88af9870b7d1a Jiashu XU <1999J0615une@gmail.com> 1591256488 -0700	commit: jmeter
+893e0a594b9eb12dc072c6a27ec88af9870b7d1a 893e0a594b9eb12dc072c6a27ec88af9870b7d1a Jiashu XU <1999J0615une@gmail.com> 1591256526 -0700	checkout: moving from dev to nopool
+893e0a594b9eb12dc072c6a27ec88af9870b7d1a 2cd7626e3a601014ae84cc29efe4cabbdd0a305d Jiashu XU <1999J0615une@gmail.com> 1591257616 -0700	commit: jmeter
+2cd7626e3a601014ae84cc29efe4cabbdd0a305d 893e0a594b9eb12dc072c6a27ec88af9870b7d1a Jiashu XU <1999J0615une@gmail.com> 1591257620 -0700	checkout: moving from nopool to dev
+893e0a594b9eb12dc072c6a27ec88af9870b7d1a 4fe73ce87d1c8fe7b562ca04e353f1ad4fef06c0 Jiashu XU <1999J0615une@gmail.com> 1591258251 -0700	commit: jmeter
+4fe73ce87d1c8fe7b562ca04e353f1ad4fef06c0 2cd7626e3a601014ae84cc29efe4cabbdd0a305d Jiashu XU <1999J0615une@gmail.com> 1591258257 -0700	checkout: moving from dev to nopool
+2cd7626e3a601014ae84cc29efe4cabbdd0a305d 48c1a17f91da66250488903264b58a713d3f4df8 Jiashu XU <1999J0615une@gmail.com> 1591302623 -0700	commit: jmeter
+48c1a17f91da66250488903264b58a713d3f4df8 4fe73ce87d1c8fe7b562ca04e353f1ad4fef06c0 Jiashu XU <1999J0615une@gmail.com> 1591302626 -0700	checkout: moving from nopool to dev
+4fe73ce87d1c8fe7b562ca04e353f1ad4fef06c0 72a9b2a30e881c3b4d40a902b1e008381d408ecb Jiashu XU <1999J0615une@gmail.com> 1591312391 -0700	commit: jmeter
+72a9b2a30e881c3b4d40a902b1e008381d408ecb 48c1a17f91da66250488903264b58a713d3f4df8 Jiashu XU <1999J0615une@gmail.com> 1591312395 -0700	checkout: moving from dev to nopool
+48c1a17f91da66250488903264b58a713d3f4df8 308f26921e84316bf895fbfc80f01ae98e6afcc3 Jiashu XU <1999J0615une@gmail.com> 1591313553 -0700	commit: jmeter
+308f26921e84316bf895fbfc80f01ae98e6afcc3 72a9b2a30e881c3b4d40a902b1e008381d408ecb Jiashu XU <1999J0615une@gmail.com> 1591313555 -0700	checkout: moving from nopool to dev
+72a9b2a30e881c3b4d40a902b1e008381d408ecb 63c451882716b89941378a9ad1552ca15b226104 Jiashu XU <1999J0615une@gmail.com> 1591313778 -0700	commit: movielist write log
+63c451882716b89941378a9ad1552ca15b226104 b2cebafe2c15925ef27439addd0798619e58daf6 Jiashu XU <1999J0615une@gmail.com> 1591320233 -0700	commit: images
+b2cebafe2c15925ef27439addd0798619e58daf6 308f26921e84316bf895fbfc80f01ae98e6afcc3 Jiashu XU <1999J0615une@gmail.com> 1591320243 -0700	checkout: moving from dev to nopool
+308f26921e84316bf895fbfc80f01ae98e6afcc3 594927793e8fef97499e88ec34c6aae93e6fbaac Jiashu XU <1999J0615une@gmail.com> 1591321574 -0700	commit: nopool
+594927793e8fef97499e88ec34c6aae93e6fbaac 3e89c0f264e8706ab8cb8c105af3a19bd79b3c79 Jiashu XU <1999J0615une@gmail.com> 1591338594 -0700	commit: update movielist
+3e89c0f264e8706ab8cb8c105af3a19bd79b3c79 07b485ff7d2088b08aca6f2d1b6dc932ddf715de Jiashu XU <1999J0615une@gmail.com> 1591340240 -0700	commit: scale-nopool
+07b485ff7d2088b08aca6f2d1b6dc932ddf715de b2cebafe2c15925ef27439addd0798619e58daf6 Jiashu XU <1999J0615une@gmail.com> 1591340245 -0700	checkout: moving from nopool to dev
+b2cebafe2c15925ef27439addd0798619e58daf6 e09091903b668c6a701e7681a81659b9a646175b Jiashu XU <1999J0615une@gmail.com> 1591340360 -0700	commit: pool
+e09091903b668c6a701e7681a81659b9a646175b 07b485ff7d2088b08aca6f2d1b6dc932ddf715de Jiashu XU <1999J0615une@gmail.com> 1591340369 -0700	checkout: moving from dev to nopool
+07b485ff7d2088b08aca6f2d1b6dc932ddf715de 8b382d86b77b86ef8b1c49bdf0161dc6267e3f5d Jiashu XU <1999J0615une@gmail.com> 1591381727 -0700	commit: no pool for single-instance
+8b382d86b77b86ef8b1c49bdf0161dc6267e3f5d e09091903b668c6a701e7681a81659b9a646175b Jiashu XU <1999J0615une@gmail.com> 1591381743 -0700	checkout: moving from nopool to dev
+e09091903b668c6a701e7681a81659b9a646175b 4334d068cca71bfa35e95738ba14bcdbfecef143 Jiashu XU <1999J0615une@gmail.com> 1591382249 -0700	commit: pool
+4334d068cca71bfa35e95738ba14bcdbfecef143 c715f4c2904135e0b1cdf5edf16e8fa9b32a570b Jiashu XU <1999J0615une@gmail.com> 1591382255 -0700	commit: pool
+c715f4c2904135e0b1cdf5edf16e8fa9b32a570b bbec20df1bf58492f18e251a0eacca0a0f1e884d Jiashu XU <1999J0615une@gmail.com> 1591391132 -0700	commit: scale finish
+bbec20df1bf58492f18e251a0eacca0a0f1e884d b0bfa2b1c68dd13f8a29522a2b30cf8b736693db Jiashu XU <1999J0615une@gmail.com> 1591391148 -0700	checkout: moving from dev to master
+b0bfa2b1c68dd13f8a29522a2b30cf8b736693db bbec20df1bf58492f18e251a0eacca0a0f1e884d Jiashu XU <1999J0615une@gmail.com> 1591391154 -0700	merge dev: Fast-forward
+bbec20df1bf58492f18e251a0eacca0a0f1e884d fcec1b2d8c5e1858b53d0bfe18cbf13a93e92d62 Jiashu XU <1999J0615une@gmail.com> 1591391684 -0700	commit: readme
+fcec1b2d8c5e1858b53d0bfe18cbf13a93e92d62 edccf49330eaa674b974f663ae5fae522fdceec4 Jiashu XU <1999J0615une@gmail.com> 1591403394 -0700	commit: ready for demo
+edccf49330eaa674b974f663ae5fae522fdceec4 bd664fb8c2ddb8a4d8d4d062538e5859376b0ff5 Jiashu XU <1999J0615une@gmail.com> 1591403665 -0700	commit: readme update
+bd664fb8c2ddb8a4d8d4d062538e5859376b0ff5 7bf0e58e65ac2fa5823973d7e5f274f0755cc3fa Jiashu XU <1999J0615une@gmail.com> 1591404037 -0700	commit: restructure repo
+7bf0e58e65ac2fa5823973d7e5f274f0755cc3fa 8b382d86b77b86ef8b1c49bdf0161dc6267e3f5d Jiashu XU <1999J0615une@gmail.com> 1591404064 -0700	checkout: moving from master to nopool
+8b382d86b77b86ef8b1c49bdf0161dc6267e3f5d 29e78678907696476e901f719dc197195473d60d Jiashu XU <1999J0615une@gmail.com> 1591404152 -0700	commit: nopool clean up
+29e78678907696476e901f719dc197195473d60d 1bb7f6cf53c5dcdd9f787b67a1ee3acaa3ec9fc1 Jiashu XU <1999J0615une@gmail.com> 1591404163 -0700	pull: Merge made by the 'recursive' strategy.
+1bb7f6cf53c5dcdd9f787b67a1ee3acaa3ec9fc1 7bf0e58e65ac2fa5823973d7e5f274f0755cc3fa Jiashu XU <1999J0615une@gmail.com> 1591404772 -0700	checkout: moving from nopool to master
+7bf0e58e65ac2fa5823973d7e5f274f0755cc3fa 987387a59a73d4dafe30298754ccadad62568793 Jiashu XU <1999J0615une@gmail.com> 1591404778 -0700	pull: Fast-forward
+987387a59a73d4dafe30298754ccadad62568793 9de1466c96888bddaa349d27510c7f88f33df086 Jiashu XU <1999J0615une@gmail.com> 1591408785 -0700	commit: demo ready

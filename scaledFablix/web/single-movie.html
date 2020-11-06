@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+     <link rel="stylesheet" href="utils/index.css">
+
+
+    <title>Single Movie</title>
+</head>
+<body>
+<header>
+    <div id="navbar"></div>
+</header>
+
+
+<div class="d-flex justify-content-around align-item-start">
+
+    <div class="mr-auto">
+        <h1 id="movie_title"></h1>
+        <p class="lead" id="movie_release"></p>
+        <p id="movie_director"></p>
+        <hr class="my-4">
+        <p class="lead" style="text-align: center">
+            Rating:
+            <span id="rating"></span>
+            <span id="emoji"></span>
+        </p>
+        <p id="addCart"></p>
+
+    </div>
+
+    <div class="mr-auto">
+        <div class="row text-center">
+            <h4>Genres:</h4>
+        </div>
+        <div class="row">
+            <ul id="genre">
+            </ul>
+        </div>
+        <hr>
+        <div class="row text-center" id="buy">
+        </div>
+    </div>
+</div>
+
+<hr class="my-4">
+<h4>Stars: (order ↘)</h4>
+<div class="list-group" id="star">
+
+</div>
+<div class="text-center">
+<a id="back" class="btn btn-primary btn-lg active">
+    Back To MovieList
+</a>
+</div>
+
+<script src="utils/dist/single_movie.js"></script>
+</body>
+</html>

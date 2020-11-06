@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context>
+
+<!-- Defines a Data Source Connecting to localhost moviedb-->
+<!--    slave-->
+<Resource name="jdbc/moviedb"
+          auth="Container"
+          driverClassName="com.mysql.jdbc.Driver"
+          type="javax.sql.DataSource"
+          maxTotal="100" maxIdle="10" maxWaitMills="1000"
+          username="chris"
+          password="1313"
+          url="jdbc:mysql://localhost:3306/moviedb?autoReconnect=true&amp;useSSL=false&amp;cachePrepStmts=true"
+/>
+
+<!--    master-->
+<Resource name="jdbc/moviedbMaster"
+          auth="Container"
+          driverClassName="com.mysql.jdbc.Driver"
+          type="javax.sql.DataSource"
+          maxTotal="100" maxIdle="10" maxWaitMills="1000"
+          username="chris"
+          password="1313"
+          url="jdbc:mysql://172.31.56.177:3306/moviedb?autoReconnect=true&amp;useSSL=false&amp;cachePrepStmts=true"
+/>
+
+</Context>

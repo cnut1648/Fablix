@@ -1,0 +1,37 @@
+{
+  "name": "cs122b-spring20-team-111",
+  "version": "1.0.0",
+  "description": "cs122b-spring20-111 created by GitHub Classroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-111.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-111/issues"
+  },
+  "homepage": "https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-111#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.6",
+    "bootstrap": "^4.4.1",
+    "css-loader": "^3.5.2",
+    "devbridge-autocomplete": "^1.4.11",
+    "jquery": "3.2.1",
+    "jquery-backstretch": "^2.1.18",
+    "popper.js": "^1.16.1",
+    "style-loader": "^1.1.4",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.1",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}

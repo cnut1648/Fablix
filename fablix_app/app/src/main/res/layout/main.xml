@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".main">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="363dp" android:id="@+id/constraintLayout2">
+
+            <androidx.appcompat.widget.Toolbar
+                    android:id="@+id/toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="?attr/actionBarSize"
+                    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+                    android:background="?attr/colorPrimary"
+                    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                    app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"/>
+            <TextView
+                    android:id="@+id/textView"
+                    android:text="@string/fablix"
+                    android:textColor="@color/red"
+                    android:textSize="35dp"
+                    android:textStyle="bold"
+                    android:layout_height="48dp" android:layout_width="102dp"
+                    app:layout_constraintTop_toBottomOf="@+id/toolbar" app:layout_constraintStart_toStartOf="parent"
+                    android:layout_marginLeft="154dp" android:layout_marginStart="154dp"
+                    app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="155dp"
+                    android:layout_marginRight="155dp"
+                    app:layout_constraintBottom_toTopOf="@+id/content" app:layout_constraintVertical_bias="0.23000002"
+            />
+            <Button
+                    android:id="@+id/Search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Search"
+                    android:textColor="#FFFFFF"
+                    android:textSize="30sp"
+                    android:textColorHighlight="#F82121"
+                    style="@style/Widget.MaterialComponents.Button"
+                    android:textColorHint="#EB0909" app:backgroundTint="#6E80E5"
+                    app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/content"
+                    app:layout_constraintVertical_bias="0.120000005"/>
+            <EditText
+                    android:layout_width="213dp"
+                    android:layout_height="50dp"
+                    android:id="@+id/content"
+                    android:hint="Title"
+                    android:inputType="text"
+                    android:imeOptions="actionSearch"
+                    style="@style/Widget.AppCompat.AutoCompleteTextView"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:layout_marginLeft="99dp" android:layout_marginStart="99dp"
+                    app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="99dp"
+                    android:layout_marginRight="99dp"
+                    app:layout_constraintTop_toBottomOf="@+id/textView" android:layout_marginBottom="8dp"
+                    app:layout_constraintBottom_toTopOf="@+id/Search"/>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:text="To be Implemented"
+            android:textSize="30sp"
+            android:background="#FFF"
+
+    />
+
+
+</androidx.drawerlayout.widget.DrawerLayout>
